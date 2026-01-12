@@ -1,0 +1,3 @@
+rna_motif,motif_position,combined_value,outlier_score,Sequence,outlier_base,minimum_bound_fraction,CpdID,rna_motif_type,abs_outlier_score,motif_type,binding_site,SMILES,Num-hit-RNA/1000,selectivity-label,log-selectivity
+rna_screening1_00006,34,h0,0.051188345,AAAACC,A,0.142564954,AAAA,rna_screening1_00006-h0,0.051188345,h,hairpin,XXXX,0.5,selective,0.405465108
+rna_screening1_00009,20,m0,0.048258778,CCCCGGG,U,0.374133479,BBBB,rna_screening1_00009-m0,0.048258778,m,multiloop,YYYY,2.5,unselective,1.252762968

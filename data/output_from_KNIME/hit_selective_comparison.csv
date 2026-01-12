@@ -1,0 +1,6 @@
+CpdID,Count(rna_motif),Max*(minimum_bound_fraction),First(origin),SMILES,full-rna,Num-hit-RNA/1000
+Anthrafurandione 2a,25,0.764318957,screening_2,NCCNc1c2C(=O)c3ccccc3C(=O)c2c(NCCN)c2occc12,1749,14.3
+Madrasin,11,0.446321128,screening_2,CC1=C(N=C(NC1=O)NC2=NC(=C3C=CC(=CC3=N2)OC)C)C,1749,6.3
+Mitoxantrone,463,0.866968712,screening_2,OCCNCCNc1ccc(NCCNCCO)c2C(=O)c3c(O)ccc(O)c3C(=O)c12,1749,264.7
+SMN-C2,1,0.335165239,screening_2,CCN1CCN(C[C@@H]1C)c1ccc2cc(-c3cn4cc(C)nc(C)c4n3)c(=O)oc2c1,1749,0.6
+Sanguinarine Chloride,99,0.628456431,screening_2,C[n+]1cc2c3OCOc3ccc2c2ccc3cc4OCOc4cc3c12,1749,56.6

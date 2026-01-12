@@ -1,0 +1,5 @@
+Binding_Site,Strong_Selective_n,Others_n,Strong_Selective_pct,Others_pct,Odds_Ratio,P_value,Significance
+hairpin,2,140,8.695652174,11.33603239,0.744897959,1,n.s. (p > 0.05)
+internal loop,8,678,34.7826087,54.89878543,0.438151426,0.059775828,n.s. (p > 0.05)
+multiloop,11,333,47.82608696,26.96356275,2.482982983,0.033448359,* 
+stem,2,84,8.695652174,6.801619433,1.304988662,0.667555343,n.s. (p > 0.05)
